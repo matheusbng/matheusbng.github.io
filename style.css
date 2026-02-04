@@ -104,3 +104,11 @@ section h2 {
   background: #004182;
   transform: translateY(-2px);
 }
+
+.linkedin-icon {
+  width: 16px;
+  height: 16px;
+  min-width: 16px;
+  min-height: 16px;
+  filter: invert(1);
+}
